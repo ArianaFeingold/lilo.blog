@@ -1,7 +1,7 @@
 +++
 title = "Was bewirkt eine Umstellung auf pflanzenbasierte Ernährung?"
 date = "2023-05-07"
-draft = false
+draft = true
 pinned = false
 tags = ["vegan", "vegetarisch", "gesund", "umweltfreundlich", "Klimawandel", "Alternativeprodukte"]
 image = "vegan.jpg"
