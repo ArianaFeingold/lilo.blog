@@ -6,6 +6,7 @@ pinned = false
 tags = ["vegan", "vegetarisch", "gesund", "umweltfreundlich"]
 image = "vegan.jpg"
 description = "Die Natur ist einzigartig in ihrer Vielfalt an geniessbaren Pflanzen . Besitzt nicht fast jeder Pflanzenfreund*in ein eigenes Gärtchen, sei es auf dem Balkon oder natürlich ein Hausgarten? Im Gespräch mit dem Ehepaar von Castelberg, bekomme ich einen wunderbaren Einblick in die Welt der veganen und vegetarischen Ernährung."
+footnotes = "Fig. 1: https://www.swissveg.ch/2021_10_Anzahl_Veganer_Vegetarier?language=de"
 +++
 Die Natur ist einzigartig in ihrer Vielfalt an geniessbaren Pflanzen . Besitzt nicht fast jeder Pflanzenfreund*in ein eigenes Gärtchen, sei es auf dem Balkon oder natürlich ein Hausgarten? Im Gespräch mit dem Ehepaar von Castelberg, bekomme ich einen wunderbaren Einblick in die Welt der veganen und vegetarischen Ernährung. 
 
@@ -19,7 +20,7 @@ Viele Gründe sprechen für eine vegane Ernährung. Doch was bewirkt überhaupt 
 
 Das Leben bietet uns verschiedene Varianten an, um die Ernährung umzustellen. Die omnivore Ernährung der sogenannten Allesfresser schliesst weder Fleisch, Fisch- und Meeresprodukte noch Obst oder Gemüse aus. Heutzutage gehört die omnivore Ernährung der grössten Nahrungspalette der Welt an. Eine vegetarische Ernährung besteht grösstenteils aus pflanzlichen Produkten und wird ergänzt mit Milchprodukten und Eiern. Die vegane Ernährungsform basiert nur auf  rein pflanzlich Produkten. Das bedeutet auf den Teller kommen weder Fleisch, noch Fisch, noch Milch, noch Eier und auch kein Honig oder sämtliche Produkte mit tierischen Bestandteilen, inklusive Zusatzstoffe tierischer Herkunft. Es existieren auch zahlreiche Diäten.
 
-![Statistik zur Zunahme der vegan/vegetarischen Ernährung in der Schweiz](statistik.png "https://www.swissveg.ch/2021_10_Anzahl_Veganer_Vegetarier?language=de")
+![Fig. 1: Statistik zur Zunahme der vegan/vegetarischen Ernährung in der Schweiz](statistik.png "https://www.swissveg.ch/2021_10_Anzahl_Veganer_Vegetarier?language=de")
 
 # Kosten und Alternativprodukte 
 
