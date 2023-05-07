@@ -39,6 +39,8 @@ Unsere Erde braucht jede mögliche Hilfe. Ein wichtiger Beitrag kann durch eine 
 
 Die Gesundheit ist das wichtigste im Leben. Sich vegetarisch resp. vegan zu ernähren, ist zudem auch gesund für den eigenen Körper. Patrick und Regina von Castelberg erzählen von einer siebzigjährigen Frau, die auf vegane Ernährung umgestellt hat. Vor dieser Umstellung hat sie mit Herzproblemen,  Diabetes zwei und Gelenkprobleme zu kämpfen gehabt. Kurz nach dem Wechsel auf vegane Ernährung, sind alle ihre Beschwerden verschwunden, auch Diabetes. Laut Patrick und Regina von Castelberg sei es empfehlenswert, seine Ernährung neu zu überdenken und auf eine pflanzenbasierte Ernährung umzustellen. ,,Jedoch behaupten wir nicht, dass auf Fleischkonsum ganz verzichtet werden soll, wenn das nicht aus freien Gründen geschieht“. Eine Umstellung auf eine pflanzenbasierte Ernährung bewirkt, ein körperliches Wohlbefinden, abwechslungsreiche Ernährung und mehr Lebensqualität. 
 
+Nach dem einstündigen Gespräch mit den von Castelbergs, weht ein jetzt frischer, leichter Wind, durch meine Haare. Die Sonnenstrahlen verschwinden hinter dem Horizont und auf dem Tisch bleiben nur noch die leeren Gläser übrig, sowie ein paar Häppchen. Ich schaue in meinen Topf und betrachte neugierig, ob sich der Samen schon ein bisschen entwickelt hat.
+
 {{<box>}}
 
 ![Regina und Patrick von Castelberg](reginapatrick.png "Regina (links) und Patrick (rechts) von Castelberg")
@@ -46,5 +48,3 @@ Die Gesundheit ist das wichtigste im Leben. Sich vegetarisch resp. vegan zu ern
 Patrick und Regina leben seit 2009 glücklich verheiratet. Patrick von Castelberg ernährt sich seit 2011 vegan. Regina von Castelberg ernährt sich fast schon ihr ganzes Leben lang vegan. Die beiden sind nicht nur Experten*innen zum Thema Ernährung sowie Umstellung auf pflanzliche Produkte, sondern verfügen sogar über einen eigenen Fernsehsender namens: ”hoch2.tv, der Wahrheit verpflichtet”. Bei dem Fernsender von Herrn und Frau Castelberg geht es um aktuelle Themen in der Schweiz. Patrick ist ausserdem ein talentierter Sänger und durchgeführte schon viele Auftritte als Sänger. Einer seiner bekanntesten Auftritte war 2017 bei «Das Supertalent». Regina ist Lehrerin an einer Schule sowie diplomierte Journalistin und Schriftstellerin. Eines ihrer Bücher trägt den Namen «Mein kleiner Kater Salomon», es kam im Jahr 2013 erschienen.
 
 {{</box>}}
-
-Nach dem einstündigen Gespräch mit den von Castelbergs, weht ein jetzt frischer, leichter Wind, durch meine Haare. Die Sonnenstrahlen verschwinden hinter dem Horizont und auf dem Tisch bleiben nur noch die leeren Gläser übrig, sowie ein paar Häppchen. Ich schaue in meinen Topf und betrachte neugierig, ob sich der Samen schon ein bisschen entwickelt hat.
