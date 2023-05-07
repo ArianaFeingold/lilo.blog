@@ -3,7 +3,7 @@ title = "Was bewirkt eine Umstellung auf pflanzenbasierte Ernährung?"
 date = "2023-05-07"
 draft = true
 pinned = false
-tags = ["vegan", "vegetarisch", "gesund", "umweltfreundlich", "Klimawandel", "Alternativeprodukte"]
+tags = ["vegan", "vegetarisch", "gesund", "umweltfreundlich"]
 image = "vegan.jpg"
 description = "Die Natur ist einzigartig in ihrer Vielfalt an geniessbaren Pflanzen . Besitzt nicht fast jeder Pflanzenfreund*in ein eigenes Gärtchen, sei es auf dem Balkon oder natürlich ein Hausgarten? Im Gespräch mit dem Ehepaar von Castelberg, bekomme ich einen wunderbaren Einblick in die Welt der veganen und vegetarischen Ernährung."
 +++
