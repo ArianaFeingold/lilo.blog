@@ -10,7 +10,7 @@ footnotes = "Fig. 1: https://www.swissveg.ch/2021_10_Anzahl_Veganer_Vegetarier?l
 +++
 Die Natur ist einzigartig in ihrer Vielfalt an geniessbaren Pflanzen. Besitzt nicht fast jede\*r Pflanzenfreund\*in ein eigenes Gärtchen, sei es auf dem Balkon oder natürlich einen Hausgarten?  Das anpflanzen von Gemüse, Früchten und Kräutern wirkt ausserordentlich inspirierend und motivierend. Die Menschen werden angeregt zu einer Umstellung auf pflanzenbasierte Ernährung. Im Gespräch mit dem Ehepaar von Castelberg, bekomme ich einen wunderbaren Einblick in ihre Welt der veganen und vegetarischen Ernährung. 
 
-Draussen fallen die Sonnenstrahlen auf meinen Nacken und ich spüre das Gefühl von Wärme, währenddessen ich friedlich Balsilikumsamen in einen Topf pflanze. Frische erdige Luft dringt in meine Nase. Dieser Geruch erweckt in mir grosse Freude und Verbundenheit mit der Natur. Gleichzeitig begrüssen mich meine Interviewpartner und es fühlt sich so an, als würden wir uns schon lange kennen. Auch ihr Hund Gigino freut sich. Wir setzen uns an den von mir vorbereiteten Tisch mit feinen Häppchen und erfrischenden Getränken. In fröhlicher Stimmung beginnen wir das Interview.
+Draussen fallen die Sonnenstrahlen auf meinen Nacken und ich spüre das Gefühl von Wärme, währenddessen ich friedlich Balsilikumsamen in einen Topf pflanze. Frische erdige Luft dringt in meine Nase. Dieser Geruch erweckt in mir grosse Freude und Verbundenheit mit der Natur. Gleichzeitig begrüssen mich meine Interviewpartner und es fühlt sich so an, als würden wir uns schon lange kennen. Auch ihr Hund Timma freut sich. Wir setzen uns an den von mir vorbereiteten Tisch mit feinen Häppchen und erfrischenden Getränken. In fröhlicher Stimmung beginnen wir das Interview.
 
 # Gründe zur Umstellung der Ernährung
 
@@ -46,14 +46,12 @@ Die Gesundheit ist das Wichtigste im Leben. Sich vegetarisch respektive vegan z
 
 Eine Umstellung auf eine pflanzenbasierte Ernährung bewirkt ein körperliches Wohlbefinden, Gesundheit, abwechslungsreiche Ernährung und mehr Lebensqualität. 
 
-
-
 Nach dem einstündigen Gespräch mit den von Castelbergs weht ein jetzt frischer, leichter Wind durch meine Haare. Die Sonnenstrahlen verschwinden hinter dem Horizont und auf dem Tisch bleiben nur noch die leeren Gläser übrig sowie ein paar feine Häppchen. Ich schaue in meinen Topf und betrachte neugierig, ob sich die Basilikumsamen, die ich zuvor gepflanzt hatte, schon ein bisschen entwickelt haben.
 
 {{<box>}}
 
 ![Regina und Patrick von Castelberg ](reginapatrick.png "Regina (links) und Patrick (rechts) von Castelberg; Foto von Patrick und Regina von Castelberg.")
 
-Patrick und Regina leben seit 2009 glücklich verheiratet. Patrick von Castelberg ernährt sich seit 2011 vegan. Regina von Castelberg ernährt sich fast schon ihr ganzes Leben lang vegan. Die beiden sind nicht nur Experten*innen zum Thema Ernährung sowie Umstellung auf pflanzliche Produkte, sondern verfügen sogar über einen eigenen Fernsehsender namens: ”hoch2.tv, der Wahrheit verpflichtet”. Bei dem Fernsehsender von Herrn und Frau von Castelberg geht es um aktuelle Themen in der Schweiz. Patrick ist ausserdem ein talentierter Sänger und führte schon viele Auftritte als Sänger durch. Einer seiner bekanntesten war 2017 in der Sendung «Das Supertalent». Regina ist Lehrerin an einer Grundschule sowie diplomierte Journalistin und Schriftstellerin. Eines ihrer Bücher trägt den Namen «Mein kleiner Kater Salomon», es ist im Jahr 2013 erschienen.
+Patrick und Regina leben seit 2009 glücklich verheiratet. Patrick von Castelberg ernährt sich seit 2011 vegan. Regina von Castelberg ernährt sich fast schon ihr ganzes Leben lang vegan. Die beiden sind nicht nur Experten*innen zum Thema Ernährung sowie Umstellung auf pflanzliche Produkte, sondern verfügen sogar über einen eigenen Fernsehsender namens: ”hoch2.tv, der Wahrheit verpflichtet”. Bei dem Fernsehsender von Herrn und Frau von Castelberg geht es um aktuelle Themen in der Schweiz. Patrick ist ausserdem ein talentierter Sänger und führte schon viele Auftritte als Sänger durch. Einer seiner bekanntesten war 2017 in der Sendung «Das Supertalent». Regina war Lehrerin an einer Grundschule sowie diplomierte Journalistin und Schriftstellerin. Eines ihrer Bücher trägt den Namen «Mein kleiner Kater Salomon», es ist im Jahr 2013 erschienen. Nun arbeitet sie Vollzeit als Redaktionsleiterin für den TV-Sender HOCH2.  
 
 {{</box>}}
